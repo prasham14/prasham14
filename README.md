@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prasham-jain-portfolio.vercel.app](https://prasham-jain-portfolio.vercel.app)
 
-- 📫 How to reach me **jprasham@gmail.com**
+- 📫 How to reach me **jprasham3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
